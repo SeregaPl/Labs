@@ -10,7 +10,7 @@
 ## Запуск проекта
 
 ```bash
-git clone https://github.com/username/Labs.git
+git clone https://github.com/SeregaPl/Labs.git
 cd Labs
 
 # переход в ветку project
